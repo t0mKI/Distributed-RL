@@ -43,7 +43,6 @@ The following configurations are set in **`config/settings.py`**. Among others t
 
 | **Parameter**              | **Value**                             | **Description**                                                                 |
 |----------------------------|---------------------------------------|---------------------------------------------------------------------------------|
-                             |
 | `SAVE_POLICY`               | `True` or `False`                    | Enable or disable saving the learned policy.                                    |
 | `LOAD_POLICY`               | `True` or `False`                    | Enable or disable loading a previously saved policy.                            |
 | `SAVE_GRAPHS`               | `True` or `False`                    | Enable or disable saving graphs generated during the learning process.          |
